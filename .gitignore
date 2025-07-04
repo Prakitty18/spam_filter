@@ -127,3 +127,26 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Streamlit
+.streamlit/
+
+# Model files (optional - you might want to include these)
+*.pkl
+*.joblib
+*.h5
+*.pth
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
